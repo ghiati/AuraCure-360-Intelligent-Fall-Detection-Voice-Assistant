@@ -13,6 +13,11 @@ AuraCure 360° is a modular, intelligent assistant that integrates **fall detect
 - **Flask Web Server**: Handles fall detection notifications and alerts.
 - **Real-Time Audio Streaming**: Efficiently records and processes user speech.
 
+## 📽️ Video Demonstration
+Click the link below to watch the demo:
+
+➡️ [Watch the Demo](https://drive.google.com/file/d/1hEVIHol-GMKVQ0PiVTWnVPbLtGnNGQAU/view?usp=drive_link)
+
 ## Project Structure
 ```
 assistant/
